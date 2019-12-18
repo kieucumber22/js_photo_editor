@@ -1,0 +1,1 @@
+A javascript app that does simple image edits such as greyscale, sepia, invert, brighten and darken. 
