@@ -1,7 +1,9 @@
 #upload {
     text-align: center;
     background-color: #a1b8e2;
-    border: 10px;
+    margin-left: -15px;
+    margin-right: -15px;
+    overflow-x: hidden;
 }
 
 input {
@@ -11,9 +13,15 @@ input {
 #buttons {
     text-align: center;
     background-color: #d4def1;
+    margin-left: -15px;
+    margin-right: -15px;
     padding: 20px;
 }
 
 canvas {
     max-width: 100%;
+}
+
+.container {
+    background-color: #AEB6BF;
 }
